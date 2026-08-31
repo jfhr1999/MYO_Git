@@ -1,3 +1,4 @@
+import os
 import libwyag
 
 def test_hash_object_and_cat_file(tmp_path, capsys):
